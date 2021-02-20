@@ -12,5 +12,5 @@ Data is downloaded from [Kaggle](https://www.kaggle.com/gpreda/covid-world-vacci
 
 ## Technologies used
 - Jupyter Notebook with Python, Pandas, Numpy
-- plotly plots -> to be able to properly visualize the plots, check [my Kaggle notebook](https://www.kaggle.com/gpreda/covid-world-vaccination-progress) on the same subject
+- plotly plots -> to be able to properly visualize the plots, check [my Kaggle notebook](https://www.kaggle.com/irinahulea/covid-19-vaccination-progress-around-the-world) on the same subject
 - FbProphet predictions and plots
